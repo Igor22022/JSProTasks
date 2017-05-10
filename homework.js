@@ -138,6 +138,4 @@ function run() {
 }
 run();
 
-// 2.3
-// Реалізувати методи Post/Put/Delete для api, за допомогою XMLHttpRequest
 
